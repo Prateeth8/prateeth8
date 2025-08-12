@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/1a1b26/ffffff%3Ftext%3DHello!%2BI%27m+[Your+Name]" alt="Banner with a greeting">
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/1a1b26/ffffff%3Ftext%3DHello!%2BI%27m+Prateeth-Rao" alt="Banner with a greeting">
 </div>
 
 <h1 align="center">Hi there, I'm Prateeth Rao 👋</h1>
@@ -25,19 +25,19 @@
 ⚡ Fun fact: Love to research about topics,items etc. before concluding about something. Also able to predict future beats in music. Love staying around plants and gardening.
 
 🛠️ My Skills
-Here are some of the tools I work with:
+Here are some of the technologies I work with:
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow, aws%26perline%3D6" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow%26perline%3D6" />
 </a>
 </p>
 
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[Prateeth8]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[Prateeth8]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrateeth8%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Your GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrateeth8%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 
 🤝 Connect with Me
