@@ -37,14 +37,14 @@ Here are some of the tools I work on:
 
 🤝 Connect with Me
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/prateeth-rao-92952a18b/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/prateeth-rao-92952a18b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/Prateeth8">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
 </a>
 <a href="https://prateethinfo.odoo.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-343434%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-343434%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/>
 </a>
 </p>
 
