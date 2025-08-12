@@ -20,12 +20,12 @@
 
 
 🛠️ My Skills
-Here are some of the technologies I work with:
+Here are some of the tools I work on:
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Djs,vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow%26perline%3D6" />
-</a>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow" />
+  </a>
 </p>
 
 
