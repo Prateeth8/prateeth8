@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/1a1b26/ffffff%3Ftext%3DHello!%2BI%27m+Prateeth-Rao" alt="Banner with a greeting">
-</div>
-
 <h1 align="center">Hi there, I'm Prateeth Rao 👋</h1>
 <p align="center">
 <em>A passionate Researcher from IIIT-B 📍</em>
@@ -20,16 +16,15 @@
 
 📫 How to reach me: prateeth.rao@iiitb.ac.in, prateeth2012@gmail.com
 
-😄 Pronouns: [Your Pronouns]
-
 ⚡ Fun fact: Love to research about topics,items etc. before concluding about something. Also able to predict future beats in music. Love staying around plants and gardening.
+
 
 🛠️ My Skills
 Here are some of the technologies I work with:
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow%26perline%3D6" />
+<img src="https://skillicons.dev/icons%3Fi%3Djs,vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow%26perline%3D6" />
 </a>
 </p>
 
