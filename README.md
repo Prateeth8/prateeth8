@@ -3,51 +3,44 @@
 <em>A passionate Researcher from IIIT-B 📍</em>
 </p>
 
-👨‍💻 About Me
-🔭 I’m currently working on building robust Visual Odometry pipelines for Monocular Visual SLAM systems.
+### 👨‍💻 About Me
+* **🔭 Currently working on:** Preparing a journal submission for IJCV on robust Visual Odometry pipelines, and developing automated coral reef mapping for Netrani Island.
+* **🌱 Currently learning:** Spatiotemporal remote sensing techniques (including LST, NDVI, and NDSI for Himalayan permafrost mapping), and feature extractors using deep learning models like ViT.
+* **👯 Looking to collaborate on:** Latent Space Modeling, Radar-Camera fusion, and advanced 3D computer vision applications.
+* **🤔 Looking for help with:** Integrating OpenCV C++ libraries with Python Visual SLAM modules for improved 3D reconstruction.
+* **🎓 Recent Milestone:** Completed Master's thesis on *"Leveraging Geometric Priors for Robust Visual Odometry in 3D Reconstruction"* at IIIT Bangalore.
+* **💬 Ask me about:** 3D Computer Vision, Robotics, SLAM, GIS, and Embedded AI.
+* **📫 How to reach me:** [prateeth.rao@iiitb.ac.in](mailto:prateeth.rao@iiitb.ac.in) | [prateeth2012@gmail.com](mailto:prateeth2012@gmail.com)
+* **⚡ Fun fact:** I love deep-diving into a topic before drawing conclusions, can predict future beats in EDM and classical music, and enjoy unwinding with yoga, gardening, or a game of chess.
 
-🌱 I’m currently learning Feature extractors using deep learning models like ViT, understanding latent spaces for generative vision models, improving radar camera fusion for autonomous systems and implementing Spatio temporal remote sensing techniques.
-
-👯 I’m looking to collaborate on Latent Space Modeling and Radar-Camera fusion.
-
-🤔 I’m looking for help with Integration of opencv C++ libraries and python Visual SLAM modules for improved 3D reconstruction.
-
-💬 Ask me about topics in 3D computer vision, Robotics, GIS and Embedded AI.
-
-📫 How to reach me: prateeth.rao@iiitb.ac.in, prateeth2012@gmail.com
-
-⚡ Fun fact: Love to research about topics,items etc. before concluding about something. Also able to predict future beats in music. Love staying around plants and gardening.
-
-
-🛠️ My Skills
-Here are some of the tools I work on:
+### 🛠️ My Skills
+Here are some of the tools I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow" />
+   <img src="https://skillicons.dev/icons?i=vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow" alt="Prateeth's Skills"/>
   </a>
 </p>
 
-
-📊 My GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrateeth8%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrateeth8%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateeth8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prateeth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeth8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-🤝 Connect with Me
+### 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/prateeth-rao-92952a18b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/Prateeth8">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
-</a>
-<a href="https://prateethinfo.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-343434%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
+  <a href="https://linkedin.com/in/prateeth-rao-92952a18b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Prateeth8">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://prateethinfo.odoo.com">
+    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-Thanks for visiting!
+<em>Thanks for visiting!</em>
 </p>
