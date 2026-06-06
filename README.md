@@ -29,7 +29,7 @@ Here are some of the tools I work with:
 </p>
 <p align="center">
   <a href="https://www.kaggle.com/prateethrao">
-    <img src="https://kaggle-readme-stats.vercel.app/api?username=YOUR_KAGGLE_USERNAME&theme=tokyonight&show_icons=true" alt="Prateeth's Kaggle Stats" />
+    <img src="https://kaggle-readme-stats.vercel.app/api?username=prateethrao&theme=tokyonight&show_icons=true" alt="Prateeth's Kaggle Stats" />
   </a>
 </p>
 
