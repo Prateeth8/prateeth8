@@ -18,14 +18,19 @@ Here are some of the tools I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow" alt="Prateeth's Skills"/>
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,arduino,aws,cpp,git,html,ai,mysql,opencv,py,pytorch,raspberrypi,ros,tensorflow" alt="Prateeth's Skills"/>
   </a>
 </p>
 
-### 📊 My GitHub Stats
+### 📊 My GitHub & Kaggle Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prateeth8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prateeth's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateeth8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/prateethrao">
+    <img src="https://kaggle-readme-stats.vercel.app/api?username=YOUR_KAGGLE_USERNAME&theme=tokyonight&show_icons=true" alt="Prateeth's Kaggle Stats" />
+  </a>
 </p>
 
 ### 🤝 Connect with Me
