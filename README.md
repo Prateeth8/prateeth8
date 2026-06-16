@@ -11,7 +11,7 @@
 * **🎓 Recent Milestone:** Completed Master's thesis on *"Leveraging Geometric Priors for Robust Visual Odometry in 3D Reconstruction"* at IIIT Bangalore.
 * **💬 Ask me about:** 3D Computer Vision, Robotics, SLAM, GIS, and Embedded AI.
 * **📫 How to reach me:** [prateeth.rao@iiitb.ac.in](mailto:prateeth.rao@iiitb.ac.in) | [prateeth2012@gmail.com](mailto:prateeth2012@gmail.com)
-* **⚡ Fun fact:** I love deep-diving into a topic before drawing conclusions, can predict future beats in EDM and classical music, and enjoy unwinding with yoga, gardening, or a game of chess.
+* **⚡ Fun fact:** I love deep-diving into a topic before drawing conclusions, love listening to EDM, bollywood and classical music, and enjoy unwinding with yoga, gardening, or learning about historical facts/structures.
 
 ### 🛠️ My Skills
 Here are some of the tools I work with:
