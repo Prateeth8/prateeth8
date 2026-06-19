@@ -4,11 +4,11 @@
 </p>
 
 ### 👨‍💻 About Me
-* **🔭 Currently working on:** Preparing a journal submission for IJCV on robust Visual Odometry pipelines, and developing automated coral reef mapping for Netrani Island.
-* **🌱 Currently learning:** Spatiotemporal remote sensing techniques (including LST, NDVI, and NDSI for Himalayan permafrost mapping), and feature extractors using deep learning models like ViT.
-* **👯 Looking to collaborate on:** Latent Space Modeling, Radar-Camera fusion, and advanced 3D computer vision applications.
+* **🔭 Currently working on:** Submitted Journal to IJCV on graph based robust VO with epipolar supervision, Bounded NeRF using trajectories from VSLAM/SFM and images, building a simple VO module in C++ and using an open source dataset to implement VLA in kaggle.
+* **🌱 Currently learning:** Robot Foundation models for embodied AI, Prediction in latent space (V-JEPA), Event VIO and state space estimation.
+* **👯 Seeking for research collaborations on:** Underwater Image understanding, Multimodal Visual SLAM, 3DGS and VLA. 
 * **🤔 Looking for help with:** Integrating OpenCV C++ libraries with Python Visual SLAM modules for improved 3D reconstruction.
-* **🎓 Recent Milestone:** Completed Master's thesis on *"Leveraging Geometric Priors for Robust Visual Odometry in 3D Reconstruction"* at IIIT Bangalore.
+* **🎓 Recent Milestone:** Completed Master's thesis and Defence on *"GRAPH-BASED RELATIVE POSE ESTIMATION WITH EPIPOLAR GEOMETRY SUPERVISION FOR VISUAL SLAM"* at IIIT Bangalore.
 * **💬 Ask me about:** 3D Computer Vision, Robotics, SLAM, GIS, and Embedded AI.
 * **📫 How to reach me:** [prateeth.rao@iiitb.ac.in](mailto:prateeth.rao@iiitb.ac.in) | [prateeth2012@gmail.com](mailto:prateeth2012@gmail.com)
 * **⚡ Fun fact:** I love deep-diving into a topic before drawing conclusions, love listening to EDM, bollywood and classical music, and enjoy unwinding with yoga, gardening, or learning about historical facts/structures.
