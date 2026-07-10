@@ -13,6 +13,18 @@
 * **📫 How to reach me:** [prateeth.rao@iiitb.ac.in](mailto:prateeth.rao@iiitb.ac.in) | [prateeth2012@gmail.com](mailto:prateeth2012@gmail.com)
 * **⚡ Fun fact:** I love deep-diving into a topic before drawing conclusions, love listening to EDM, bollywood and classical music, and enjoy unwinding with yoga, gardening, or learning about historical facts/structures.
 
+### 🚀 Featured Projects & Research
+*(Click on any project to view the repository and code)*
+
+* 🌐 **[Graph-Based Visual Odometry](https://github.com/Prateeth8/Epipolar-graph-vo.git)**
+  Codebase supporting my Pattern Recognition submission and Master's thesis, focusing on relative pose estimation with epipolar geometry supervision.
+* 📷 **[Bounded NeRF Implementation](https://github.com/Prateeth8/Nerf-unbounded)**
+  Implementation utilizing trajectories from VSLAM/SFM and image data for bounded Neural Radiance Fields.
+* 🌊 **[Coral Reef Mapping - Netrani Island](https://github.com/Prateeth8/CORAL_ATLAS_INDIA)**
+  An environmental GIS pipeline leveraging multi-source satellite data (Sentinel-1/2, MODIS, ICESat-2) for underwater analysis.
+* ⚙️ **[C++ Visual Odometry Module](https://github.com/Prateeth8/Simple-VO_CPP)**
+  A lightweight, from-scratch VO pipeline built in C++ to integrate with broader SLAM architectures.
+
 ### 🛠️ My Skills
 Here are some of the tools I work with:
 
