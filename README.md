@@ -4,7 +4,7 @@
 </p>
 
 ### 👨‍💻 About Me
-* **🔭 Currently working on:** Submitted Journal to IJCV on graph based robust VO with epipolar supervision, Bounded NeRF using trajectories from VSLAM/SFM and images, building a simple VO module in C++ and using an open source dataset to implement VLA in kaggle.
+* **🔭 Currently working on:** Journal under revision to Pattern Recognition on graph based robust VO with epipolar supervision, Bounded NeRF using trajectories from VSLAM/SFM and images, building a simple VO module in C++ and using an open source dataset to implement VLA in kaggle.
 * **🌱 Currently learning:** Robot Foundation models for embodied AI, Prediction in latent space (V-JEPA), Event VIO and state space estimation.
 * **👯 Seeking for research collaborations on:** Underwater Image understanding, Multimodal Visual SLAM, 3DGS and VLA. 
 * **🤔 Looking for help with:** Integrating OpenCV C++ libraries with Python Visual SLAM modules for improved 3D reconstruction.
